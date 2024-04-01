@@ -12,3 +12,7 @@
 Файл tableau_project_event_dict.csv — справочник конференций.
 
 Файл tableau_project_speakers_dict.csv — справочник авторов выступления.
+
+#### Ссылка для онлайн просмотра презентации.
+
+https://clck.ru/39o7Z8
